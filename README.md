@@ -56,10 +56,3 @@ SmartLight является умным светильником без реал�
 
 ## Дополнительные материалы
 Читайте про создание данного устройства в статье на Хабре
-
-[IMG_0354-7.webm](https://github.com/MaxiEnergy/SmartLight/assets/58640177/3db7f97e-bdc2-4d69-b290-d2aef10bb262)
-
-<video autoplay loop muted>
-  <source src="https://github.com/MaxiEnergy/SmartLight/assets/58640177/3db7f97e-bdc2-4d69-b290-d2aef10bb262" type="video/webm">
-</video>
-
